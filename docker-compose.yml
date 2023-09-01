@@ -8,3 +8,4 @@ services:
       - 8888:8080
     environment:
       AUTH_SECRET_KEY: aidengrong
+      KFURL: https://img.aidengrong.top/file/1f68d27b54b5cded9c431.jpg
